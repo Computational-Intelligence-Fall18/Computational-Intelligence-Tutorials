@@ -9,7 +9,7 @@ This is the repository of codes written in class as hands on tutorial.
 * Why All on Github?
 ---
 
-## Prerequisites
+## Start to Code
 * Github and Version Controls
 * Python 3.x
 * Package Managers - conda and pip
@@ -32,6 +32,11 @@ This is the repository of codes written in class as hands on tutorial.
 * Array Indexing
 * Iterating
 * Saving and loading
+---
+
+## Pandas
+* If time let us talk!
+---
 
 ## Question and Discussion
 
