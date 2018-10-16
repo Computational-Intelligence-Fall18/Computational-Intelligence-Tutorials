@@ -6,19 +6,22 @@ This is the repository of codes written in class as hands on tutorial.
 * Grading
 * Projects Structure
 * Please Write Docs
-*Why All on Github?
+* Why All on Github?
 ---
+
 ## Prerequisites
 * Github and Version Controls
 * Python 3.x
-*Package Managers - conda and pip
+* Package Managers - conda and pip
 ---
+
 ## Python
 * Basic Data Types
 * Containers
 * Functions
 * Classes
 ---
+
 ## Numpy
 * Creating Arrays
 * Array Data
@@ -31,5 +34,7 @@ This is the repository of codes written in class as hands on tutorial.
 * Saving and loading
 
 ## Question and Discussion
+
+
 
 GL HF
