@@ -1,4 +1,4 @@
-# Python-Hands-on
+# Python-Numpy-Instructor-Codes
 This is the repository of codes written in class as hands on tutorial.
 
 # Contents
