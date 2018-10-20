@@ -1,4 +1,4 @@
-# Python-Hands-on
+# Python-Numpy-Instructor-Codes
 This is the repository of codes written in class as hands on tutorial.
 
 # Contents
@@ -32,14 +32,3 @@ This is the repository of codes written in class as hands on tutorial.
 * Array Indexing
 * Iterating
 * Saving and loading
----
-
-## Pandas
-* If time let us talk!
----
-
-## Question and Discussion
-
-
-
-GL HF
