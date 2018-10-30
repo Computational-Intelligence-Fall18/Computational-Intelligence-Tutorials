@@ -6,7 +6,7 @@ Before you start this tutorial, you should know:
 * Python - If you don't know python, but you know how to program, you can learn it in <a href="https://github.com/Computational-Intelligence-Fall18/Python-Numpy-Instructor-Codes/blob/master/Week%201%20-%20Intro%20to%20Python%20and%20Numpy/Python.ipynb">first week</a> of this class.
 * Numpy Library - If you don't know Numpy, you can learn it in <a href="https://github.com/Computational-Intelligence-Fall18/Computational-Intelligence-Tutorials/blob/master/Week%201%20-%20Intro%20to%20Python%20and%20Numpy/Numpy.ipynb">first week</a> of this class.
 * Algorithms & Datastructures - If you don't know Algorithms & Datastructures, you can learn it <a href="https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513">here</a>.
-
+---
 # Weekly Content
 ## First Week
 * Python
@@ -25,9 +25,18 @@ Before you start this tutorial, you should know:
   * Iterating
   * Saving and loading
 ---
-
 ## Second Week
-* First three steps of Implementing Genetic Algorithms, such as :
+First three steps of Implementing Genetic Algorithms :
   * Population Initialization
   * Fitness Calculation
   * Selection Operators
+* Introduction to Knapsack problem
+* How you can create a fake data for Knapsack problem
+---
+## Third Week
+* Last two steps of implementing the Genetic Algorithms :
+  * Crossover
+  * Mutation
+* Solving Knapsack problem with Brute Force Algorithm
+* Solving Knapsack problem with Genetic Algorithm
+* Visualization of Genetic Algorithm output
