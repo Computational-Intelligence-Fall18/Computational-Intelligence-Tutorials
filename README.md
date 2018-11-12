@@ -40,3 +40,12 @@ First three steps of Implementing Genetic Algorithms :
 * Solving Knapsack problem with Brute Force Algorithm
 * Solving Knapsack problem with Genetic Algorithm
 * Visualization of Genetic Algorithm output
+---
+## Fourth Week
+* How to find the minimum point of various functions
+* How to represent a floating-point chromosome as a binary chromosome
+* Uniform Mutation (Floating-point representation)
+* Linear Recombination Crossover
+* Genetic Algorithm (Floating-point Representation)
+* 3-D Visualization of every function & its fitness
+* 
