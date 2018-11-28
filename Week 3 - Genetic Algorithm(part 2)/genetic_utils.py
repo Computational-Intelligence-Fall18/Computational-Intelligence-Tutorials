@@ -71,7 +71,6 @@ def roulette_selection(chromosomes, show_plot = False) :
 
 tournament_selection = lambda chromosomes, sel_pressure: max(np.random.choice(chromosomes, sel_pressure),key=lambda c: c.fitness)
 
-
 # First set up the figure, the axis, and the plot element we want to animate
 def plot_generations(generations, fitnesses) :
     fig = plt.figure()
