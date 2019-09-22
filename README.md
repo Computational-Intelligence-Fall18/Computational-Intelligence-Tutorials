@@ -48,4 +48,18 @@ First three steps of Implementing Genetic Algorithms :
 * Linear Recombination Crossover
 * Genetic Algorithm (Floating-point Representation)
 * 3-D Visualization of every function & its fitness
-* 
+---
+## Fifth Week
+* Full ACO algorithm to find sub-optimal solutions for Travelling Sales Man (TSP) Problem
+* Implementing Three strategies for ACO algorithm including Ant-cycle AS, Ant-density AS, and Ant-quantity AS
+* Designing the visualization of the final route which ACO discovered
+---
+## Sixth Week
+* Full PSO algorithm to find the minimum point of Rastrigin Function
+* 3-D Visualization of sequential progress of PSO algorithm
+* 2-D Visualization of sequential progress of PSO algorithm
+---
+## Seventh Week
+* A detailed description of Binary Logistic Regression
+* Full clean implementation of Logistic Regression to discriminate Iris-setosa flower from other types of flowers
+* Visualization of flowers features and the discriminatory line between the features
