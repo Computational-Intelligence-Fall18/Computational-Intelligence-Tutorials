@@ -1,5 +1,5 @@
 # Computational Intelligence Tutorial
-This repository will cover the material of the Computational Intelligence class. In this class, we will show how you could implement Metaheuristic Algorithms in python. So If you are interested in Metaheuristic Algorithms, This is the place for you. (The goal of making this content was anyone can be able to learn Metaheuristic Algorithms on their own, So if you can't be present in the class, you can learn all of the material here.)
+In this repository, we will cover the material of the Computational Intelligence course which originated in University of Guilan. This repo will demonstrate how you could implement Metaheuristic Algorithms in Python. Therefore, if you are interested in learning the implementation of Metaheuristic Algorithms and understanding them with cool visualization techniques, this is the right place for you. (The goal of making this content was enabling others to learn Metaheuristic Algorithms on their own; therefore, if you can't be present in the class, you can learn all of the material using this repository.)
 
 # Prerequisites
 Before you start this tutorial, you should know:
